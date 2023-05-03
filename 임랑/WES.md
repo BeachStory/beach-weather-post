@@ -1,4 +1,4 @@
-![WES-전경](./WES-전경.png)
+![WES-전경](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/WES-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.png?token=GHSAT0AAAAAACBPU3U3Q35QXTD3ZZ6DQ34AZCR6AEA)
 # [임랑 해수욕장] WES 카페
 
 ## 영업 시간
@@ -8,6 +8,14 @@
 ## 메뉴
 - 아메리카노 5,500원
 - 헤이즐넛 초코 쿠키 3,200원
+
+## 내부
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg?token=GHSAT0AAAAAACBPU3U2LTHULXUR6VQIVXUQZCR6DAA" width="20%" height="30%">
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg?token=GHSAT0AAAAAACBPU3U2V5JGN4LHYJO5ZHI6ZCR6FPQ" width="20%" height="30%">
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-4.jpeg?token=GHSAT0AAAAAACBPU3U2CKYJH3BL4MO4475OZCR6G7A" width="20%" height="30%">
+</p>
 
 ## 시설
 주차, 포장, 무선 인터넷, 남/녀 화장실 구분
