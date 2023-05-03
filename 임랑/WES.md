@@ -1,4 +1,4 @@
-![WES-전경](./WES-전경.png)
+![WES-전경](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/WES-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.png)
 # [임랑 해수욕장] WES 카페
 
 ## 영업 시간
@@ -12,9 +12,9 @@
 ## 내부
 
 <p align="center">
-<img src="./내부-1.jpeg" width="20%" height="30%">
-<img src="./내부-2.jpeg" width="20%" height="30%">
-<img src="./내부-4.jpeg" width="20%" height="30%">
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg" width="20%" height="30%">
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg" width="20%" height="30%">
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-4.jpeg" width="20%" height="30%">
 </p>
 
 ## 시설
