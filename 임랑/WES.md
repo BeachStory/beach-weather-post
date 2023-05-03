@@ -12,9 +12,9 @@
 ## 내부
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg?token=GHSAT0AAAAAACBPU3U2LTHULXUR6VQIVXUQZCR6DAA" width="20%" height="30%">
-<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg?token=GHSAT0AAAAAACBPU3U2V5JGN4LHYJO5ZHI6ZCR6FPQ" width="20%" height="30%">
-<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-4.jpeg?token=GHSAT0AAAAAACBPU3U2CKYJH3BL4MO4475OZCR6G7A" width="20%" height="30%">
+<img src="./내부-1.png" width="20%" height="30%">
+<img src="./내부-2.png" width="20%" height="30%">
+<img src="./내부-4.png" width="20%" height="30%">
 </p>
 
 ## 시설
