@@ -12,9 +12,9 @@
 ## 내부
 
 <p align="center">
-<img src="./내부-1.png" width="20%" height="30%">
-<img src="./내부-2.png" width="20%" height="30%">
-<img src="./내부-4.png" width="20%" height="30%">
+<img src="./내부-1.jpeg" width="20%" height="30%">
+<img src="./내부-2.jpeg" width="20%" height="30%">
+<img src="./내부-4.jpeg" width="20%" height="30%">
 </p>
 
 ## 시설
