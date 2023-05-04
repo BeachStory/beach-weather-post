@@ -10,12 +10,8 @@
 - 헤이즐넛 초코 쿠키 3,200원
 
 ## 내부
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg" width="20%" height="30%">
-<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg" width="20%" height="30%">
-<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-4.jpeg" width="20%" height="30%">
-</p>
+![내부-1](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg)|![내부-1](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg)|![내부-1](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-3.jpeg)
+---|---|---|
 
 ## 시설
 주차, 포장, 무선 인터넷, 남/녀 화장실 구분
