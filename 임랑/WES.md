@@ -10,7 +10,7 @@
 - 헤이즐넛 초코 쿠키 3,200원
 
 ## 내부
-![내부-1](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg){: width="30%" height="100%"}|![내부-2](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg){: width="30%" height="100%"}|![내부-3](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-3.jpeg){: width="30%" height="100%"}
+<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-1.jpeg" width="100%" height="100%" alt="내부-1">|<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-2.jpeg" width="100%" height="100%" alt="내부-2">|<img src="https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE-4.jpeg" width="100%" height="100%" alt="내부-4">
 ---|---|---|
 
 ## 시설
