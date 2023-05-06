@@ -7,6 +7,8 @@ date: '2023-05-04'
 ![WES-전경](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EC%9E%84%EB%9E%91/WES-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.png)
 # [임랑 해수욕장] WES 카페
 
+### 부산해수욕장날씨 사이트를 보고 방문했다고 말해주세요
+
 ## 영업 시간
  - 11:00 - 20:00 
  - 19시 30분에 라스트오더
