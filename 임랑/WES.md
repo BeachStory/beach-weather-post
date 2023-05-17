@@ -1,6 +1,6 @@
 ---
 title: 'WES'
-excerpt: '임랑해수욕장 추천 카페'
+excerpt: '임랑해수욕장 추천 뷰 WES 카페'
 date: '2023-05-04'
 ---
 
