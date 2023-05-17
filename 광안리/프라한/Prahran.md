@@ -1,6 +1,6 @@
 ---
 title: 'Prahran'
-excerpt: '광안리해수욕장 추천 카페'
+excerpt: '광안리해수욕장 추천 브런치 프라한 카페'
 date: '2023-05-07'
 ---
 ![프라한-전경](https://raw.githubusercontent.com/BeachStory/beach-weather-post/main/%EA%B4%91%EC%95%88%EB%A6%AC/%ED%94%84%EB%9D%BC%ED%95%9C/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A1%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.png)
